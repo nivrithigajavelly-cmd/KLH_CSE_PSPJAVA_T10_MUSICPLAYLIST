@@ -11,15 +11,25 @@ Supervisor's Name: Dr.Madhavi Karumudi
 Abstract: uploaded in the repository
 
 Project Structure:
+
 Music Playlist and Listening-Stats Manager 
+
 | - README.md
+
 | - src
+
 MusicPlaylist.java
+
 | - docs
+
 | - data
+
 | - results
+
 | - reports
 
 Execution Instructions:
+
 javac MusicPlaylist.java
+
 java MusicPlaylist
