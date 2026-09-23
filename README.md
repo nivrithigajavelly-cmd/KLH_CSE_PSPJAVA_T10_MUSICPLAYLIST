@@ -7,6 +7,8 @@ Team Members Names with ID Numbers:
 3. Vardhini.K - 2620030422
    
 Supervisor's Name: Dr.Madhavi Karumudi
+
 Abstract: uploaded in the repository
+
 Project Structure:
 Music Playlist and Listening-Stats Manager 
